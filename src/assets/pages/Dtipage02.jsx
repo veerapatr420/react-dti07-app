@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Dtiheader from "../components/Dtiheader";
+import Dtiheader from "../../components/Dtiheader";
 
 export default function Dtipage02() {
   const [title, setTitle] = useState("");
